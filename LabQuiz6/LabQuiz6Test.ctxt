@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=input\ expectedOutput
+comment0.target=boolean\ testIndexOfLargestRowSum(int[][],\ int)
+comment1.params=input\ expectedOutput
+comment1.target=boolean\ testLargestRowSum(int[][],\ int)
+comment2.params=input\ expectedOutput
+comment2.target=boolean\ testAllPos(int[][],\ boolean)
+comment3.params=input\ expectedOutput
+comment3.target=boolean\ testAllDigits(char[][],\ boolean)
+comment4.params=input\ expectedOutput
+comment4.target=boolean\ testIsJagged(int[][],\ boolean)
+comment5.params=input\ expectedOutput
+comment5.target=boolean\ testRows2strings(char[][],\ java.lang.String[])
+comment6.params=input1\ input2\ expectedOutput
+comment6.target=boolean\ testIsMirror(char[],\ char[],\ boolean)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

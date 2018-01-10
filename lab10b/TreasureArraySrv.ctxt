@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=tsureArray
+comment0.target=Treasure\ min(Treasure[])
+comment1.params=tsureArray
+comment1.target=Treasure\ max(Treasure[])
+comment2.params=tsureArray\ treasure
+comment2.target=boolean\ isFound(Treasure[],\ Treasure)
+comment3.params=tsureArray\ treasure
+comment3.target=int\ timesFound(Treasure[],\ Treasure)
+comment4.params=tsureArray\ treasure
+comment4.target=boolean\ searchVal(Treasure[],\ Treasure)
+numComments=5

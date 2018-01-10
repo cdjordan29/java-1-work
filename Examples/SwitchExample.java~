@@ -1,0 +1,39 @@
+/**
+  *SwitchExample.java takes a BS question from D2L and writes out the answer 
+  because I'm too dumb to trace it
+  *
+  * @author		<Daniel Jordan>
+  * @version	<2/05/16>
+  */
+import java.util.Scanner;
+public class SwitchExample
+{
+	public static void main (String[] args)
+	{
+		int x = 3;
+		
+		switch(x)
+		{
+			case 3:
+				x += 1;
+			case 4:
+				x += 2;
+			case 5:
+				x += 3;
+			case 6:
+				x++;
+			case 7:
+				x += 2;
+			case 8:
+				x--;
+			case 9:
+				x++;
+		}
+		
+		
+	
+			System.out.print(x);
+	}
+	
+	
+}

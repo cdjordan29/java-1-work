@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=intValue
+comment0.target=WrappedInt(int)
+comment1.params=
+comment1.target=int\ getInt()
+comment2.params=intValue
+comment2.target=void\ setInt(int)
+numComments=3

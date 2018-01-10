@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=_name\ _room\ _leftPocket\ _rightPocket
+comment0.target=Explorer(java.lang.String,\ Room,\ Treasure,\ Treasure)
+comment1.params=_name
+comment1.target=void\ setName(java.lang.String)
+comment2.params=_room
+comment2.target=void\ setRoom(Room)
+comment3.params=_leftPocket
+comment3.target=void\ setLeftPocket(Treasure)
+comment4.params=_rightPocket
+comment4.target=void\ setRightPocket(Treasure)
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment6.params=
+comment6.target=Room\ getRoom()
+comment7.params=
+comment7.target=Treasure\ getLeftPocket()
+comment8.params=
+comment8.target=Treasure\ getRightPocket()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

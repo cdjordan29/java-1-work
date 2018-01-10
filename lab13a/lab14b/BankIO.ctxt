@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=filename\ bank
+comment0.target=void\ readFile(java.lang.String,\ Bank)
+comment1.params=in
+comment1.target=BankAccount\ readAccount(java.util.Scanner)
+numComments=2

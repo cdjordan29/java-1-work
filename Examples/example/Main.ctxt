@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=rate
+comment0.target=double\ raise(double)
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

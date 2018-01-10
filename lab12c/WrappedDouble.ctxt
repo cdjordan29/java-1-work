@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=doubleValue
+comment0.target=WrappedDouble(double)
+comment1.params=
+comment1.target=double\ getDouble()
+comment2.params=doubleValue
+comment2.target=void\ setDouble(double)
+numComments=3

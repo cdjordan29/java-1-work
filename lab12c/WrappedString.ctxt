@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=stringValue
+comment0.target=WrappedString(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getString()
+comment2.params=stringValue
+comment2.target=void\ setString(java.lang.String)
+numComments=3

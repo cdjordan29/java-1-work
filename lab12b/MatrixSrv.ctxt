@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=nums
+comment0.target=int\ sum(int[][])
+comment1.params=nums
+comment1.target=int\ min(int[][])
+comment2.params=nums
+comment2.target=int\ max(int[][])
+comment3.params=nums
+comment3.target=int\ range(int[][])
+comment4.params=nums
+comment4.target=int[]\ sumRows(int[][])
+comment5.params=nums\ num
+comment5.target=boolean\ isFound(int[][],\ int)
+comment6.params=nums
+comment6.target=void\ print(int[][])
+numComments=7
